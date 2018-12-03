@@ -2,7 +2,7 @@
 
 
 GIS for Public Policy - Class Workshop Guide
-This is an free and open guide to GIS for Public Policy: A guide to the basics of using the QGIS software package 
+This is an free and open guide to GIS for Public Policy: A guide to the basics of using the QGIS software package. Guides are freely available for use and distribution via the license file accompanying this repository.
 
 For QGIS version 2.14 (Essen) - GISforPolicy_WorkshopGuide_v1.1.pdf
 
